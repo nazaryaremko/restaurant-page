@@ -1,0 +1,1 @@
+In this exercise I learned how to use webpack to bundle modules. Specifically, I made a simple restaruant page with two tabs - for each tab I created a separate module which I imported into the index.js file. This helped me understand how to organize my functions into modules effectively to make the JS codes more readable and easier to work with. 
